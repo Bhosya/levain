@@ -42,9 +42,7 @@ const Contact = () => {
           {/* Contact Info */}
           <div className="flex flex-col space-y-8">
             <div className="bg-white/90 backdrop-blur-sm p-8 rounded-lg shadow-md border border-levain-brown/20">
-              <h3 className="font-playfair text-2xl mb-6">
-                Contact Information
-              </h3>
+              <h3 className="font-optima text-2xl mb-6">Contact Information</h3>
 
               <div className="space-y-6">
                 <div className="flex items-start">
@@ -101,7 +99,7 @@ const Contact = () => {
             <div className="bg-white/90 backdrop-blur-sm p-8 rounded-lg shadow-md border border-levain-brown/20">
               <div className="flex items-center mb-6">
                 <Clock className="text-levain-brown mr-2" />
-                <h3 className="font-playfair text-2xl">Opening Hours</h3>
+                <h3 className="font-optima text-2xl">Opening Hours</h3>
               </div>
 
               <div className="space-y-2">

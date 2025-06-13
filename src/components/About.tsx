@@ -54,7 +54,7 @@ const About = () => {
                 }}
               ></div>
               <div className="relative z-10">
-                <h3 className="font-playfair text-xl font-medium mb-4">
+                <h3 className="font-optima text-xl font-medium mb-4">
                   Artisanal Process
                 </h3>
                 <p className="text-levain-black/80 sm:hidden lg:block">
@@ -73,7 +73,7 @@ const About = () => {
                 }}
               ></div>
               <div className="relative z-10">
-                <h3 className="font-playfair text-xl font-medium mb-4">
+                <h3 className="font-optima text-xl font-medium mb-4">
                   Quality Ingredients
                 </h3>
                 <p className="text-levain-black/80 sm:hidden lg:block">
@@ -91,7 +91,7 @@ const About = () => {
                 }}
               ></div>
               <div className="relative z-10">
-                <h3 className="font-playfair text-xl font-medium mb-4">
+                <h3 className="font-optima text-xl font-medium mb-4">
                   Cozy Ambiance
                 </h3>
                 <p className="text-levain-black/80 sm:hidden lg:block">

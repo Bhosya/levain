@@ -54,7 +54,7 @@ const Navbar = () => {
         <a href="#" className="flex items-center">
           <span
             className={cn(
-              "font-playfair font-semibold text-2xl md:text-3xl",
+              "font-optima font-semibold text-2xl md:text-3xl",
               isScrolled ? "text-levain-black" : "text-white"
             )}
           >

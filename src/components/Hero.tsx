@@ -41,7 +41,7 @@ const Hero = () => {
           }}
         >
           <h1
-            className="text-white font-playfair font-bold text-4xl md:text-5xl lg:text-6xl mb-4 opacity-0 animate-fade-in"
+            className="text-white font-optima font-bold text-4xl md:text-5xl lg:text-6xl mb-4 opacity-0 animate-fade-in"
             style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
           >
             Experience Artisan Coffee & Sourdough

@@ -280,7 +280,7 @@ const FeedbackForm = () => {
             <form onSubmit={handleSubmit} className="space-y-8">
               {/* Rating Section */}
               <div className="space-y-6">
-                <h3 className="font-playfair text-xl font-medium text-levain-black">
+                <h3 className="font-optima text-xl font-medium text-levain-black">
                   How would you rate us?
                 </h3>
 
