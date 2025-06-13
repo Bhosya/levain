@@ -37,7 +37,7 @@ const About = () => {
               </div>
               <div className="absolute -bottom-8 -right-8 card p-3 -rotate-6 hover-scale z-10">
                 <img
-                  src="cake.webp"
+                  src="/images/gallery/food/cake.webp"
                   alt="Coffee preparation"
                   className="rounded-md object-cover w-48 h-48"
                 />
