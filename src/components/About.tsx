@@ -50,7 +50,7 @@ const About = () => {
               <div
                 className="absolute inset-0 bg-cover bg-center opacity-30 group-hover:opacity-50 transition-opacity duration-300"
                 style={{
-                  backgroundImage: "url('process.webp')",
+                  backgroundImage: "url('sourdough.jpg')",
                 }}
               ></div>
               <div className="relative z-10">
@@ -69,7 +69,7 @@ const About = () => {
               <div
                 className="absolute inset-0 bg-cover bg-center opacity-30 group-hover:opacity-50 transition-opacity duration-300"
                 style={{
-                  backgroundImage: "url('croque.webp')",
+                  backgroundImage: "url('croissant.jpg')",
                 }}
               ></div>
               <div className="relative z-10">
@@ -87,7 +87,7 @@ const About = () => {
               <div
                 className="absolute inset-0 bg-cover bg-center opacity-30 group-hover:opacity-50 transition-opacity duration-300"
                 style={{
-                  backgroundImage: "url('cozy.jpg')",
+                  backgroundImage: "url('cozy.jpeg')",
                 }}
               ></div>
               <div className="relative z-10">
